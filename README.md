@@ -81,9 +81,9 @@ Full profiling (household size, parenthood, campaign response, channel preferenc
 
 ```
 .
-├── agglomerative-hierarchical-clustering.ipynb   # main notebook
-├── data/                                         # (not tracked) place marketing_campaign.csv here
-├── images/                                        # plots used in this README
+├── agglomerative-hierarchical-clustering.ipynb   
+├── data/                                         
+├── images/                                        
 ├── requirements.txt
 └── README.md
 ```
