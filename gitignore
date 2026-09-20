@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data (don't commit large/raw datasets — link to Kaggle instead)
+data/
+*.csv
+
+# OS
+.DS_Store
